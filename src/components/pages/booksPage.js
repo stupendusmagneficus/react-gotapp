@@ -12,12 +12,6 @@ export class BooksPage extends Component {
         error: false
     }
 
-    onItemSelected = (id) => {
-        this.setState({
-            selectedBook: id
-        })
-    }
-
     componentDidCatch() {
         this.setState({
             error: true
