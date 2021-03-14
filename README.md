@@ -1,3 +1,18 @@
+3️⃣ My third project while studying on the course "JavaScript + React". 
+React library. A average level. 
+Project "DB GOT"🎬
+
+🎯 Tasks:
+
+1) We work with the server. Fetch API
+2) Examine the life cycle of components
+3) Learn React Patterns
+4) Familiarize yourself with navigating the app with React Router
+5) Default properties
+6) Use higher order components
+7) Understand your hands in React
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
